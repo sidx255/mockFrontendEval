@@ -1,0 +1,29 @@
+
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.sync-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sync-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    border-radius: 200px;
+    width: 200px;
+    height: 60px;
+    background: #4C63AA;
+    color: #fff;
+    font-size: 2em;
+    cursor: pointer;
+}

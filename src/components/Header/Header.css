@@ -1,0 +1,11 @@
+
+.heading {
+    display: flex;
+    font-size: 2.0em;
+    text-align: left;
+    align-items: center;
+    height: 2em;
+    padding-left: 30px;
+    color: rgb(255, 255, 255);
+    background-color: #38497E;
+}
